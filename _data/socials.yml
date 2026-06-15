@@ -1,0 +1,9 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: lycxsh@gmail.com # your email address
+github_username: LYCesh # your GitHub username
+# cv_pdf: /assets/pdf/cv.pdf # uncomment once you upload a real CV PDF
+# scholar_userid:  # add your Google Scholar ID once you have publications
+# orcid_id:  # add your ORCID once you create one
+# linkedin_username:  # add your LinkedIn vanity name if you want it shown
